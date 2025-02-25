@@ -40,5 +40,3 @@ Deploy now: [Vercel Deployment](https://vercel.com/new?utm_medium=default-templa
 
 For more details, refer to the official [Next.js Deployment Guide](https://nextjs.org/docs/app/building-your-application/deploying).
 
----
-
