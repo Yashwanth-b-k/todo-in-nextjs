@@ -42,4 +42,3 @@ For more details, refer to the official [Next.js Deployment Guide](https://nextj
 
 ---
 
-Let me know if you need any further customization! 🚀
