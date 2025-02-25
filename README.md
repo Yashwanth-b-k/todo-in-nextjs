@@ -1,6 +1,4 @@
-Here’s an edited version of your README file with a more polished and personalized touch:
 
----
 
 # Getting Started
 
